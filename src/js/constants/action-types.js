@@ -1,0 +1,1 @@
+export const SHOPPING_ITEM = "SHOPPING_ITEM";

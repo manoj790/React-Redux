@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.header {
+	overflow: hidden;
+	background: orange;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	border-radius: 4px;
+}
+.form{
+	padding-left:15px; 
+}
+.list{
+	padding-left: 15px;
+}
+
